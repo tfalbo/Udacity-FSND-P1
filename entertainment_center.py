@@ -35,7 +35,3 @@ hunger_games = media.Movie("Hunger Games",
 movies = [toy_story, avatar, school_of_rock,
           ratatouille, midnight_in_paris, hunger_games]
 fresh_tomatoes.open_movies_page(movies)
-# print(media.Movie.VALID_RATINGS)
-# print(media.Movie.__doc__)
-# print(media.Movie.__name__)
-# print(media.Movie.__module__)
