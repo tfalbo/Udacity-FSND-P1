@@ -1,6 +1,6 @@
 # Udacity - Movie Trailer Website
 
-This project is part of[Udacity's Full Stack Nanodegree](https: // br.udacity.com / course / full - stack - web - developer - nanodegree - -nd004).
+This project is part of[Udacity's Full Stack Nanodegree](https://br.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
 # What?
 
