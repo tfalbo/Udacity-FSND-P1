@@ -15,3 +15,7 @@ $ python entertainment_center.py.
 ```
 
 The website will open in your browser
+
+# Where?
+
+An example can be seen [here](http://www.thaissa.eng.br/movie-trailer-website/)
