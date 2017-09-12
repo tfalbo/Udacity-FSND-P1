@@ -3,7 +3,8 @@ import os
 import re
 
 '''
-Generates page from the objects in entertainment_center.py and opens it in the browser
+Generates page from the objects in entertainment_center.py and opens it in
+the browser
 '''
 
 
