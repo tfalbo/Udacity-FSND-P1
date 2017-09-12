@@ -1,6 +1,10 @@
 import media
 import fresh_tomatoes
 
+'''
+Defines the movie objects
+'''
+
 into_the_wild = media.Movie("Into the Wild",
                             "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.",
                             "https://upload.wikimedia.org/wikipedia/pt/8/8a/Into-the-wild.jpg",
@@ -35,6 +39,10 @@ beauty_beast = media.Movie("Beauty and the Beast",
                            "https://upload.wikimedia.org/wikipedia/pt/d/d6/Beauty_and_the_Beast_2017_poster.jpg",
                            "https://www.youtube.com/watch?v=e3Nl_TCQXuw")
 
+
+'''
+Send the movie objects to generate page
+'''
 
 movies = [into_the_wild, moana, in_time, coco, the_perks, beauty_beast]
 fresh_tomatoes.open_movies_page(movies)
