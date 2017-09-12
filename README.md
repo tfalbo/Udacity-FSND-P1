@@ -1,11 +1,14 @@
-# Udacity - FSND - P1
+# Udacity - Movie Trailer Website
 
-This project is part of Udacity's Full Stack Nanodegree.
+This project is part of [Udacity's Full Stack Nanodegree](https://br.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
+## What?
 
-# How to run 
+This Python project generates a page with 6 of my favourite movies.
 
-Execute
+## How?
+
+In order to generate the html file and open the website, execute:
 
 ```
 $ python entertainment_center.py.
